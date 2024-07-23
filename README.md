@@ -13,7 +13,7 @@ This challenge is divided into three parts: data modeling, data engineering, and
 - Create a table schema for each of the six CSV files.
 - SQL to create the database and the tables.
 - Specify the data types, primary keys, foreign keys, and other constraints.
-- ![Create SQL DB & Tables](EmployeeSQL/SQL_create_statements/SQL_Create_all_tables.sql)
+- [Create SQL DB & Tables](EmployeeSQL/SQL_create_statements/SQL_Create_all_tables.sql)
 - 
 
 ### SQL File Location
