@@ -6,12 +6,15 @@ This challenge is divided into three parts: data modeling, data engineering, and
 ## First Task: Entity Relationship Diagram (ERD)
 
 - Sketch an Entity Relationship Diagram of the tables.
+- ![ERD](EmployeeSQL/images/ERD_entity_relationship_diagram_SQL_2024-07-22_22-58-57.png)
 
 ## Second Task: Table Schema Creation
 
 - Create a table schema for each of the six CSV files.
 - SQL to create the database and the tables.
 - Specify the data types, primary keys, foreign keys, and other constraints.
+- ![Create SQL DB & Tables](EmployeeSQL/SQL_create_statements/SQL_Create_all_tables.sql)
+- 
 
 ### SQL File Location
 The SQL file to create the database and tables can be found at:
