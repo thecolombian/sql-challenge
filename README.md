@@ -28,7 +28,8 @@ The SQL file to create the database and tables can be found at:
 ```sql
 SELECT e.emp_no, e.last_name, e.first_name, e.sex, s.salary
 FROM employees e
-JOIN salaries s ON e.emp_no = s.emp_no;
+JOIN salaries s ON e.emp_no = s.emp_no; ```
+
    ![Query 1](path/to/query1_image.png)
 
 2. **List the first name, last name, and hire date for the employees who were hired in 1986.**
