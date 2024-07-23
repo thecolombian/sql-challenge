@@ -14,7 +14,7 @@ This challenge is divided into three parts: data modeling, data engineering, and
 - SQL to create the database and the tables.
 - Specify the data types, primary keys, foreign keys, and other constraints.
 - [Create SQL DB & Tables](EmployeeSQL/SQL_create_statements/SQL_Create_all_tables.sql)
-- 
+  
 
 ### SQL File Location
 The SQL file to create the database and tables can be found at:
