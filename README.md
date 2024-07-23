@@ -25,11 +25,11 @@ The SQL file to create the database and tables can be found at:
 ### Queries and Results
 
 1. **List the employee number, last name, first name, sex, and salary of each employee.**
-```markdown
+```
 SELECT e.emp_no, e.last_name, e.first_name, e.sex, s.salary
 FROM employees e
-JOIN salaries s ON e.emp_no = s.emp_no; ```
-```sql
+JOIN salaries s ON e.emp_no = s.emp_no;
+```
 
    ![Query 1](path/to/query1_image.png)
 
