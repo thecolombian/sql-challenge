@@ -31,7 +31,7 @@ FROM employees e
 JOIN salaries s ON e.emp_no = s.emp_no;
 ```
 
-   ![Query 1](path/to/query1_image.png)
+   ![Query 1](EmployeeSQL/images/List_the_employee_number_last_name_first_name_sex_and_salary_of_each_employee.png)
 
 2. **List the first name, last name, and hire date for the employees who were hired in 1986.**
    ![Query 2](path/to/query2_image.png)
