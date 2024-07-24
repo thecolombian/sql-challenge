@@ -1,4 +1,8 @@
 
+#Module 9 Challenge
+
+For this project, I'll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. In other words, I'll be performing data modeling, data engineering, and data analysis.
+
 # Employee Database Challenge
 
 This challenge is divided into three parts: data modeling, data engineering, and data analysis.
