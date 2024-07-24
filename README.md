@@ -29,8 +29,7 @@ The SQL file to create the database and tables can be found at:
 ### Queries and Results
 
 File with all the queries in one place
-  ![List of SQL queries](EmployeeSQL/SQL_create_statements/SQL_FILE_of_the_queries.sql)
-  ![Query 1](EmployeeSQL/images/List_the_employee_number_last_name_first_name_sex_and_salary_of_each_employee.png)
+  [List of SQL queries](EmployeeSQL/SQL_create_statements/SQL_FILE_of_the_queries.sql)
 
 1. **List the employee number, last name, first name, sex, and salary of each employee.**
 ```
